@@ -3,4 +3,6 @@ My task is to develop a model to predict the selling price of a given home in Am
 
 In order to complete this task, I will use Bayesian Modeling and RStudio.
 
-The results can be downloaded as a HTLM file in the repository.
+Final report can be found in the link bellow:
+
+https://fbattaglin.github.io/prediction_home_prices/Final_peer
